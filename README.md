@@ -1,4 +1,8 @@
-## Análise de dados
-### Regressão Linear
+## Análise de regressão
 
-A análise de regressão estuda a relação entre uma variável **dependente** e outras variáveis variáveis **independentes**. A relação entre elas é representada por um modelo matemático, que associa a variável dependente com as variáveis independentes. Este modelo é designado por modelo de regressão linear simples onde define-se uma relação **linear** entre a variável **dependente** e uma variável **independente**. 
+A **análise de regressão** é uma técnica que permite explorar e estabelecer a relação entre uma **variável dependente** com **variáveis independentes** especificas através de um modelo matemático.
+A regressão, em geral, tem como objetivo tratar de um valor que não se consegue estimar inicialmente.
+
+### Regressão Linear Simples
+
+A regressão linear é chamada **linear** porque considera-se que a relação entre a variável **dependente**  e uma variável **independente** é uma função linear. Se em vez de uma, forem incorporadas várias variáveis independentes, o modelo passa a denominar-se modelo de regressão linear múltipla.
