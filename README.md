@@ -26,3 +26,6 @@ Baseado nos dados da tabela acima é possível construir o gráfico abaixo onde 
 
 #### Mortalidade infantil X Analfabetismo
 ![Grafico_de dispersao](https://github.com/leofernandes87/Analise-de-dados/blob/master/imagens/grafico_disp.svg)
+
+O modelo de regressão linear nos permite estudar as relações entre essas duas variáveis numéricas contínuas, determinando se a relação é **positiva** ou **negativa** (algo que cresce ou decresce constantemente).
+Observando o gráfico já é possivel determinar que neste exemplo temos uma relação **positiva**, pois quanto maior a taxa de mortalidade (eixo x), maior é a taxa de analfabetismo (eixo y).
