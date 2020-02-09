@@ -28,7 +28,7 @@ Baseado nos dados da tabela acima é possível construir o gráfico abaixo onde 
 ![Grafico_de dispersao](https://github.com/leofernandes87/Analise-de-dados/blob/master/imagens/grafico_disp.svg)
 
 O modelo de regressão linear nos permite estudar as relações entre essas duas variáveis numéricas contínuas, determinando se a relação é **positiva** ou **negativa** (algo que cresce ou decresce constantemente).
-Observando o gráfico já é possivel determinar que neste exemplo temos uma relação **positiva**, pois quanto maior a taxa de mortalidade (eixo **_x_**), maior é a taxa de analfabetismo (eixo **_y_**).
+Observando o gráfico já é possivel determinar que neste exemplo temos uma relação **positiva**, pois quanto maior a taxa de mortalidade (eixo **x**), maior é a taxa de analfabetismo (eixo **y**).
 
 ### Método de Regressão Linear Simples
 
@@ -41,3 +41,5 @@ A equação para nosso modelo de regressão linear simples pode ser escrita como
 onde:
 - **_y_<sub>_i_</sub>** é uma variável dependente ou de resposta para o **_i_**-ésimo elemento da amostra. Esse é o valor que desejamos descobrir, no caso do exemplo acima equivale ao valor da **taxa de analfabetismo**.
 - **_x_<sub>_i_</sub>** é uma variável de entrada também chamada de variável independente ou preditora, para o **_i_**-ésimo elemento da amostra. Esse será o valor dado da **taxa de mortalidade**.
+- **_a_** indica quanto algo (representado pelo valor no eixo **y**) muda à medida que o valor (representado no eixo **x**) aumenta. No caso do exemplo acima indica o quanto a taxa de analfabetismo aumenta à medida em que a taxa de mortalidade cresce. Esse é um valor desconhecido, para isso a seguinte forma deverá ser utilizada:
+
