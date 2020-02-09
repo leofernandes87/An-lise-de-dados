@@ -34,3 +34,8 @@ Observando o gráfico já é possivel determinar que neste exemplo temos uma rel
 
 Suponhamos agora que baseados na relação das duas variáveis desejamos estimar a **taxa de analfabetismo** (**_y_**) de uma determinada região que possui uma **taxa de mortalidade** (**_x_**) de **30,0**.
 
+A equação para nosso modelo de regressão linear simples pode ser escrita como:
+
+![Equação regressão linear](https://github.com/leofernandes87/Analise-de-dados/blob/master/imagens/equation_reg_linear.svg)
+
+onde:
