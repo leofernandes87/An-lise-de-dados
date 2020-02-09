@@ -3,7 +3,7 @@
 A **análise de regressão** é uma técnica que permite explorar e estabelecer a relação entre uma **variável dependente** com **variáveis independentes** especificas através de um modelo matemático.
 A regressão, em geral, tem como objetivo tratar de um valor que não se consegue estimar inicialmente.
 
-### Regressão Linear Simples
+### Regressão Linear
 
 A regressão linear é chamada **linear** porque considera-se que a relação entre a variável **dependente**  e uma variável **independente** é uma função linear. Se em vez de uma, forem incorporadas várias variáveis independentes, o modelo passa a denominar-se modelo de regressão linear múltipla.
 
@@ -29,3 +29,7 @@ Baseado nos dados da tabela acima é possível construir o gráfico abaixo onde 
 
 O modelo de regressão linear nos permite estudar as relações entre essas duas variáveis numéricas contínuas, determinando se a relação é **positiva** ou **negativa** (algo que cresce ou decresce constantemente).
 Observando o gráfico já é possivel determinar que neste exemplo temos uma relação **positiva**, pois quanto maior a taxa de mortalidade (eixo x), maior é a taxa de analfabetismo (eixo y).
+
+### Método de Regressão Linear Simples
+
+Suponhamos agora que baseados na relação das duas variáveis desejamos **estimar a taxa de analfabetismo** de uma determinada região que possui uma taxa de mortalidade de **30,0**.
