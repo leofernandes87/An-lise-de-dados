@@ -13,11 +13,16 @@ Os diagramas de dispersão ou gráficos de dispersão são representações de d
 Para as próximas explicações, será utilizado como exemplo o resultado de uma pesquisa que relaciona a taxa de mortalidade infantil de cada região do Brasil com sua respectiva taxa de analfabetismo.
 
 
-| Região         | Taxa de mortalidade  infantil (X) | Taxa de  analfabetismo (Y) |
-|----------------|-----------------------------------|----------------------------|
+| Região         | Taxa de mortalidade  infantil (x) | Taxa de  analfabetismo (y) |
+|----------------|:---------------------------------:|:--------------------------:|
 | Norte          |                35,6               |            12,7            |
 | Nordeste       |                59,0               |            29,4            |
 | Sudeste        |                25,2               |             8,6            |
 | Sul            |                22,5               |             8,3            |
 | Centro - Oeste |               25,41               |            12,4            |
 
+
+Baseado nos dados da tabela acima é possível construir o gráfico abaixo onde os dados são exibidos através de pontos, cada um representando uma região, com o valor da taxa de mortalidade determinando a posição no eixo horizontal (x) e o valor da taxa de analfabetismo determinando a posição no eixo vertical (y).
+
+#### Mortalidade infantil X Analfabetismo
+![Grafico_de dispersao](https://github.com/leofernandes87/Analise-de-dados/blob/master/imagens/grafico_disp.svg)
