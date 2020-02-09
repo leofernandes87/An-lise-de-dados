@@ -39,3 +39,5 @@ A equação para nosso modelo de regressão linear simples pode ser escrita como
 ![Equação regressão linear](https://github.com/leofernandes87/Analise-de-dados/blob/master/imagens/equation_reg_linear.svg)
 
 onde:
+- **_y_<sub>_i_</sub>** é uma variável dependente ou de resposta para o **_i_**-ésimo elemento da amostra. Esse é o valor que desejamos descobrir, no caso do exemplo acima equivale ao valor da **taxa de analfabetismo**.
+- **_x_<sub>_i_</sub>** é uma variável de entrada também chamada de variável independente ou preditora, para o **_i_**-ésimo elemento da amostra. Esse será o valor dado da **taxa de mortalidade**.
