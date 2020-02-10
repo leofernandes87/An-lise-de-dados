@@ -36,11 +36,15 @@ Suponhamos agora que baseados na relação das duas variáveis desejamos estimar
 
 A equação para nosso modelo de regressão linear simples pode ser escrita como:
 
-![Equação regressão linear](https://github.com/leofernandes87/Analise-de-dados/blob/master/imagens/equation_reg_linear.svg)
+<p align="center">
+  <img src="https://github.com/leofernandes87/Analise-de-dados/blob/master/imagens/equation_reg_linear.svg">
+</p>
 
 onde:
 - **_y_<sub>_i_</sub>** é uma variável dependente ou de resposta para o **_i_**-ésimo elemento da amostra. Esse é o valor que desejamos descobrir, no caso do exemplo acima equivale ao valor da **taxa de analfabetismo**.
 - **_x_<sub>_i_</sub>** é uma variável de entrada também chamada de variável independente ou preditora, para o **_i_**-ésimo elemento da amostra. Esse será o valor dado da **taxa de mortalidade**.
 - **_a_** tambem chamado de *slope*, indica quanto algo (representado pelo valor no eixo **y**) muda à medida que o valor (representado no eixo **x**) aumenta, determinando a inclinação da reta. No caso do exemplo acima, indica o quanto a taxa de analfabetismo aumenta à medida em que a taxa de mortalidade cresce. Esse é um valor desconhecido, para isso a seguinte equação deverá ser utilizada:
 
-![Equação slope](https://github.com/leofernandes87/Analise-de-dados/blob/master/imagens/equation_slope.svg)
+<p align="center">
+  <img src="https://github.com/leofernandes87/Analise-de-dados/blob/master/imagens/equation_slope.svg">
+</p>  
